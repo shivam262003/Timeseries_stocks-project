@@ -61,10 +61,3 @@ Potential future enhancements could include:
 - Historical performance comparison
 - News integration for each stock
 
-## License
-
-This project is created for educational purposes.
-
-## Author
-
-Created as a demonstration project for time series visualization.
